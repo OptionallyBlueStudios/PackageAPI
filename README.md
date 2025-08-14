@@ -15,3 +15,5 @@ You can also use it in your CLI
 ```bash
 packageapi-gui
 ```
+
+Made by me :)
