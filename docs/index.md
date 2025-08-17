@@ -1,3 +1,5 @@
+[![Last PyPi Publish](https://github.com/OptionallyBlueStudios/PackageAPI/actions/workflows/publish.yml/badge.svg)](https://github.com/OptionallyBlueStudios/PackageAPI/actions/workflows/publish.yml)
+
 # PackageAPI
 An API For Installing Packages Inside Of Your Python Script
 
