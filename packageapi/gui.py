@@ -50,7 +50,6 @@ def check_package(package):
 def check_and_install_package(package):
     try:
         __import__(package)
-        _show_gui("Check & Install", f"Package '{package}' is already installed.", auto_close=1500)
     except ImportError:
         install_package(package)
 
