@@ -1,4 +1,5 @@
 [![Last PyPi Publish](https://github.com/OptionallyBlueStudios/PackageAPI/actions/workflows/publish.yml/badge.svg)](https://github.com/OptionallyBlueStudios/PackageAPI/actions/workflows/publish.yml)
+[![CodeQL](https://github.com/OptionallyBlueStudios/PackageAPI/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/OptionallyBlueStudios/PackageAPI/actions/workflows/github-code-scanning/codeql)
 
 # PackageAPI
 An API For Installing Packages Inside Of Your Python Script
